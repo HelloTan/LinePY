@@ -99,7 +99,7 @@ def SEND_MESSAGE(op):
             kc.sendMessage(msg.to,responsename4)
             km.sendMessage(msg.to,responsename5)
         elif text.lower() in ["keluar"]:
-            ki.leaveGroup(msg.to)
+               ki.leaveGroup(msg.to)
                kk.leaveGroup(msg.to)
                kc.leaveGroup(msg.to)
                km.leaveGroup(msg.to)
