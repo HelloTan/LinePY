@@ -15,6 +15,10 @@ Atau
 
 --> pip install linepy --upgrade
 
+Open Folder Examples:
+
+--> python3 Line-TCR.py
+
 Author @ Fadhiil Rachman / (https://www.instagram.com/fadhiilrachman/)
 
 Spesial Thanks
