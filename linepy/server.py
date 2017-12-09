@@ -24,7 +24,7 @@ class LineServer(object):
         'LINE_STORE': '1376922440'
     }
 
-    USER_AGENT  = 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:5.0) Gecko/20100101 Firefox/5.0'
+    USER_AGENT  = 'Line/7.14.0'
     APP_TYPE    = ApplicationType.DESKTOPMAC
     APP_NAME    = 'CHROMEOS\t1.4.13\tChrome_OS\t1'
     PHONE_TYPE  = ApplicationType.IOS
